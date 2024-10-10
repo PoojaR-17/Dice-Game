@@ -31,7 +31,8 @@ index.html: Contains the basic HTML structure including buttons and placeholders
 style.css: Contains styles for highlighting the elements based on their values.
 script.js: Contains the JavaScript logic for generating random numbers and determining which number is the highest, lowest, or tied.
 Usage
-Clone or download the project.
+Clone https://github.com/PoojaR-17/Dice-Game
+or download the project.
 Open the index.html file in a web browser.
 Click the "Roll" button to generate random numbers and see the result.
 Example
