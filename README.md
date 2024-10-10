@@ -2,7 +2,7 @@
 Dice-Game using the Random number Generator
 This JavaScript project generates random numbers between a given range and displays them as part of a simple game. When the "Roll" button is clicked, three random numbers are generated, displayed, and compared. The project then highlights the highest and lowest numbers in green and red, respectively, while middle values are highlighted in yellow. If there is a tie between any two or three numbers, they are highlighted in blue.
 
-![Dice-Game]()
+![Dice-Game](https://github.com/PoojaR-17/Dice-Game/blob/main/dice.png)
 Features
 Generates three random integers between 1 and 6 when the button is clicked.
 Compares the numbers and highlights:
